@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**chaurasiya-ayush/chaurasiya-ayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
+🌱 I’m currently learning:
 
-Here are some ideas to get you started:
+Big Data Handling
+Data Structures and Algorithms
+💻 Technologies I'm proficient in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C++
+Python
+Javascript
+React JS
+Next JS
+💻 Tech Stack:
+C C# C++ CSS3 GraphQL HTML5 Java JavaScript LaTeX Markdown PHP Python Rust TypeScript AWS Netlify Vercel .Net Angular Angular.js Chakra Chart.js React Query React RabbitMQ Socket.io Web3.js Yarn Vue.js AmazonDynamoDB Postgres SQLite MySQL MongoDB Firebase Adobe Illustrator Canva Adobe Photoshop GitHub Actions GitHub Babel Gradle
+
+📊 GitHub Stats:
+
+
+
+✍️ Random Dev Quote
+
+
+
