@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Chaurasiya</h1>
-<h3 align="center">A passionate frontend developer from India A sleek, responsive task management tool built with React and Node.js.# Project Title **A subtitle describing your project in one sentence.**</h3>
+<h3 align="center">A passionate frontend developer from India A sleek, responsive task management tool built with React and Node.js.</h3>
 
 - 🔭 I’m currently working on [Weather explorer](https://weather-report-livid.vercel.app/)
 
