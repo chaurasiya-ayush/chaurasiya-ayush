@@ -9,7 +9,7 @@
 <h3 align="left">🏆 Competitive Programming Profiles</h3>
 <p align="left">
 
-<a href="https://www.codechef.com/users/ayush_1102" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@ayushchaurasiya" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ayush_1102" target="blank"><img style="background-color: white; padding: 2px" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@ayushchaurasiya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/Ayushchaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ayushchaurasiya" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Ayush_chaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="@ayushchaurasiya" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ayush_8826/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@ayushchaurasiya" height="30" width="40" /></a>
