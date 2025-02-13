@@ -30,5 +30,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chaurasiya-ayush&icon=0&color=0)](https://visitcount.itsvg.in)
-
-Proudly created with GPRM ( https://gprm.itsvg.in ) 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=chaurasiya-ayush&theme=radical" alt="GitHub Streak" />
+</p>
