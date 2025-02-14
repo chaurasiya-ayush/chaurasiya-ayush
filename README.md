@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Ayush Chaurasiya</h1><br><h3 align="center">A passionate frontend developer from India A sleek, responsive task management tool built with React and Node.js.</h3><br><br>- 🔭 I’m currently working on [Weather explorer](https://weather-report-livid.vercel.app/)<br><br>- 🌱 I’m currently learning **Django**<br><br>- 👨‍💻 All of my projects are available at [https://ayush-portfolio-ayu.vercel.app/](https://ayush-portfolio-ayu.vercel.app/)<br><br>- 💬 Ask me about **react**<br><br>- 📫 How to reach me **ayushchaurasiya9532951470@gmail.com**<br><br>- ⚡ Fun fact **My favorite programming language is java, but I secretly enjoy debugging JavaScript.**
+<h1 align="center">Hi 👋, I'm Ayush Chaurasiya</h1><br><h3 align="center">A passionate frontend developer from India A sleek, responsive task management tool built with React and Node.js.</h3><br><br>-- 🔭 I’m currently working on <a href="https://weather-report-livid.vercel.app/">[Weather Explorer]</a><br><br>- 🌱 I’m currently learning **Django**<br><br>- 👨‍💻 All of my projects are available at <a href="https://ayush-portfolio-ayu.vercel.app/">[My Portfolio]</a><br><br>- 💬 Ask me about **react**<br><br>- 📫 How to reach me **ayushchaurasiya9532951470@gmail.com**<br><br>- ⚡ Fun fact **My favorite programming language is java, but I secretly enjoy debugging JavaScript.**
 
 
 ## 🌐 Socials:
@@ -29,5 +29,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=chaurasiya-ayush&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chaurasiya-ayush&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
