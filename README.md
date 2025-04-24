@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush Chaurasiya</h1><br><h3 align="center">A passionate frontend developer from India A sleek, responsive task management tool built with React and Node.js.</h3><br><br>-- 🔭 I’m currently working on <a href="https://weather-report-livid.vercel.app/">[Weather Explorer]</a><br><br>- 🌱 I’m currently learning **Django**<br><br>- 👨‍💻 All of my projects are available at <a href="https://ayush-portfolio-ayu.vercel.app/">[My Portfolio]</a><br><br>- 💬 Ask me about **react**<br><br>- 📫 How to reach me **ayushchaurasiya9532951470@gmail.com**<br><br>- ⚡ Fun fact **My favorite programming language is java, but I secretly enjoy debugging JavaScript.**
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayush Chaurasiya</h1><br><h3 align="center">A passionate frontend developer from India A sleek, responsive task management tool built with React.</h3><br><br>-- 🔭 I’m currently working on <a href="https://weather-report-livid.vercel.app/">[Weather Explorer]</a><br><br>- 🌱 I’m currently learning **React**<br><br>- 👨‍💻 All of my projects are available at <a href="https://ayush-portfolio-ayu.vercel.app/">[My Portfolio]</a><br><br>- 💬 Ask me about **react**<br><br>- 📫 How to reach me **ayushchaurasiya9532951470@gmail.com**<br><br>- ⚡ Fun fact **My favorite programming language is java, but I secretly enjoy debugging JavaScript.**
 
 
 ## 🌐 Socials:
@@ -14,6 +14,7 @@
 <a href="https://www.hackerrank.com/profile/Ayushchaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ayushchaurasiya" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Ayush_chaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="@ayushchaurasiya" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ayush_8826/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@ayushchaurasiya" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/ayushchaurasi8bez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/ayushchaurasi8bez/" height="45" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
