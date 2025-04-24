@@ -14,7 +14,7 @@
 <a href="https://www.hackerrank.com/profile/Ayushchaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ayushchaurasiya" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Ayush_chaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="@ayushchaurasiya" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ayush_8826/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@ayushchaurasiya" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/ayushchaurasi8bez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/ayushchaurasi8bez/" height="45" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/ayushchaurasi8bez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/ayushchaurasi8bez/" height="45" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
